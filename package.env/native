@@ -1,0 +1,2 @@
+sys-libs/glibc                  force-gcc.conf
+sys-devel/gcc                   force-gcc.conf

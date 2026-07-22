@@ -1,4 +1,6 @@
 media-libs/freetype harfbuzz
-x11-libs/cairo X
+x11-libs/cairo 		-X
 media-libs/libglvnd X
-
+x11-libs/gtk 		wayland
+media-libs/mesa 	wayland
+media-libs/libvpx   postproc
