@@ -1,2 +1,3 @@
 sys-libs/glibc                  force-gcc.conf
 sys-devel/gcc                   force-gcc.conf
+app-text/scdoc                  force-gcc.conf

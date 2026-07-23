@@ -1,3 +1,3 @@
 net-libs/libmicrohttpd 		    cross/libmicrohttpd.conf
 dev-lang/perl			        cross/perl-cflags.conf
-=www-client/firefox-140.12.0    cross/force-cross-rust-1.94.1.conf
+=www-client/firefox-140.12.0    cross/force-cross-rust.conf
