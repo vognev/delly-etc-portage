@@ -1,1 +1,1 @@
-/var/db/repos/binhost-overlay/profiles/base
+../../var/db/repos/binhost-overlay/profiles/base
