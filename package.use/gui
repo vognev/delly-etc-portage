@@ -3,7 +3,7 @@ x11-libs/cairo 		-X
 media-libs/libglvnd X
 x11-libs/gtk 		wayland
 media-libs/mesa 	wayland
-media-libs/libvpx   postproc
-
-gui-apps/waybar backlight network tray
-dev-libs/libdbusmenu gtk3
+media-libs/libvpx   	postproc
+gui-wm/sway		-swaybar	
+gui-apps/waybar 	backlight network tray
+dev-libs/libdbusmenu 	gtk3
