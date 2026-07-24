@@ -8,3 +8,4 @@ gui-wm/sway		-swaybar
 gui-apps/waybar 	backlight network tray
 dev-libs/libdbusmenu 	gtk3
 gui-libs/gtk-layer-shell introspection vala
+gui-apps/swaybg		gdk-pixbuf
